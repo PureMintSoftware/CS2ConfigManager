@@ -94,4 +94,4 @@ pyinstaller --onefile --windowed --icon=cs2cfg.ico "CS2 Config Manager.pyw"
 
 ---
 
-**If CS2 Config Manager saves your settings from disaster, please give it a star by hitting the button up in the top right corner! ⭐**
+**If CS2 Config Manager helps you backup and sync your settings, please give it a star by hitting the button up in the top right corner! ⭐**
